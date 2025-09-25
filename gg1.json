@@ -1,0 +1,54 @@
+{
+  "id": "/",
+  "name": "Chill Streaming",
+  "short_name": "Chill",
+  "description": "Cuentas streaming legales y combos — Chill Streaming",
+  "start_url": "https://chillstreaming.blogspot.com/?utm_source=homescreen&view=app",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "https://chillstreaming.blogspot.com/",
+  "background_color": "#ffffff",
+  "theme_color": "#148578",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczM_VbROM5Rj2qgdBAHSrvDKCs0BkC7vqoUgCsZZkTZVMBpteyuQevqGJ8Z_ETvE1TgAqYjgsAsCy4kDEQ_3yK2qHA41ND7kbnCLw-NE4DzCUvr9DG6SYMDBmn1bizTM11-Dig15cceoxNMbiAzRZ1HJ=w192-h192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczM_VbROM5Rj2qgdBAHSrvDKCs0BkC7vqoUgCsZZkTZVMBpteyuQevqGJ8Z_ETvE1TgAqYjgsAsCy4kDEQ_3yK2qHA41ND7kbnCLw-NE4DzCUvr9DG6SYMDBmn1bizTM11-Dig15cceoxNMbiAzRZ1HJ=w512-h512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Inicio",
+      "short_name": "Inicio",
+      "description": "Ir a la página principal",
+      "url": "https://chillstreaming.blogspot.com/",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczM_VbROM5Rj2qgdBAHSrvDKCs0BkC7vqoUgCsZZkTZVMBpteyuQevqGJ8Z_ETvE1TgAqYjgsAsCy4kDEQ_3yK2qHA41ND7kbnCLw-NE4DzCUvr9DG6SYMDBmn1bizTM11-Dig15cceoxNMbiAzRZ1HJ=w96-h96",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Soporte",
+      "short_name": "Soporte",
+      "description": "Abrir chat de soporte en WhatsApp",
+      "url": "https://chillstreaming.blogspot.com/p/soporte.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczM_VbROM5Rj2qgdBAHSrvDKCs0BkC7vqoUgCsZZkTZVMBpteyuQevqGJ8Z_ETvE1TgAqYjgsAsCy4kDEQ_3yK2qHA41ND7kbnCLw-NE4DzCUvr9DG6SYMDBmn1bizTM11-Dig15cceoxNMbiAzRZ1HJ=w96-h96",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

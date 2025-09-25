@@ -1,0 +1,54 @@
+{
+  "id": "/",
+  "name": "Chill Streaming",
+  "short_name": "Chill",
+  "description": "Cuentas streaming legales y combos — Chill Streaming",
+  "start_url": "https://chillstreaming.blogspot.com/?utm_source=homescreen&view=app",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "https://chillstreaming.blogspot.com/",
+  "background_color": "#ffffff",
+  "theme_color": "#148578",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczPH_qguS_SjqL88wyK063_VPtUeGhgnzwgeEICp1ckVbVMjBK86zA0jR3rDPOyZLcXOG7L5DiUbhCrbTFnGAUnsrLJo_9r6GLUAvNG28WurKB2wAxUenCy8Z5WJf1fiHQ8L_vo5TIgPJHEmKnM90zne=w192-h192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczPH_qguS_SjqL88wyK063_VPtUeGhgnzwgeEICp1ckVbVMjBK86zA0jR3rDPOyZLcXOG7L5DiUbhCrbTFnGAUnsrLJo_9r6GLUAvNG28WurKB2wAxUenCy8Z5WJf1fiHQ8L_vo5TIgPJHEmKnM90zne=w512-h512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Inicio",
+      "short_name": "Inicio",
+      "description": "Ir a la página principal",
+      "url": "/",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczPH_qguS_SjqL88wyK063_VPtUeGhgnzwgeEICp1ckVbVMjBK86zA0jR3rDPOyZLcXOG7L5DiUbhCrbTFnGAUnsrLJo_9r6GLUAvNG28WurKB2wAxUenCy8Z5WJf1fiHQ8L_vo5TIgPJHEmKnM90zne=w96-h96",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Soporte",
+      "short_name": "Soporte",
+      "description": "Abrir chat de soporte en WhatsApp",
+      "url": "/p/soporte.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczPH_qguS_SjqL88wyK063_VPtUeGhgnzwgeEICp1ckVbVMjBK86zA0jR3rDPOyZLcXOG7L5DiUbhCrbTFnGAUnsrLJo_9r6GLUAvNG28WurKB2wAxUenCy8Z5WJf1fiHQ8L_vo5TIgPJHEmKnM90zne=w96-h96",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

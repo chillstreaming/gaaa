@@ -1,0 +1,48 @@
+{
+  "name": "Chill Streaming",
+  "short_name": "Chill",
+  "start_url": "https://chillstreaming.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b8877",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczPoIms1VxA6Kn8V5Gb2BwiuDSVFtINW8gG8ZC-wppF-XsoXaxz_vMobZVOuBjNWS48fW2cQ2NMTsWwydBNUajm0s6WaG-DCvQat6a__M5hgqd7BjuDW72WMKV61BstCtpw2_kA-1j_e_Prj_0zUTCV0=w192-h192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczPoIms1VxA6Kn8V5Gb2BwiuDSVFtINW8gG8ZC-wppF-XsoXaxz_vMobZVOuBjNWS48fW2cQ2NMTsWwydBNUajm0s6WaG-DCvQat6a__M5hgqd7BjuDW72WMKV61BstCtpw2_kA-1j_e_Prj_0zUTCV0=w512-h512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Soporte",
+      "short_name": "Soporte",
+      "description": "Chatea con soporte en WhatsApp",
+      "url": "https://chillstreaming.blogspot.com/p/soporte.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczPoIms1VxA6Kn8V5Gb2BwiuDSVFtINW8gG8ZC-wppF-XsoXaxz_vMobZVOuBjNWS48fW2cQ2NMTsWwydBNUajm0s6WaG-DCvQat6a__M5hgqd7BjuDW72WMKV61BstCtpw2_kA-1j_e_Prj_0zUTCV0=w192-h192",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Inicio",
+      "short_name": "Inicio",
+      "description": "Ir a la página principal",
+      "url": "https://chillstreaming.blogspot.com/",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczPoIms1VxA6Kn8V5Gb2BwiuDSVFtINW8gG8ZC-wppF-XsoXaxz_vMobZVOuBjNWS48fW2cQ2NMTsWwydBNUajm0s6WaG-DCvQat6a__M5hgqd7BjuDW72WMKV61BstCtpw2_kA-1j_e_Prj_0zUTCV0=w192-h192",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

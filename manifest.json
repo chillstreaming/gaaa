@@ -1,0 +1,74 @@
+{
+  "name": "Chill Streaming",
+  "short_name": "Chill Streaming",
+  "start_url": "https://chillstreaming.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b8877",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczMB19siG2dQ3KbF7YAZot91rvB1uie2RMGkSfafdvzzpWfiWOGuMXiw7_BOS4kV88S3_Q5lQggU9W3p6vqOOImtzhdlrc_Ke5rHm362J-eeuu43idN_EzJke_YdRgyY-k7_ep1gXmAsxhiKQQ7qTXjJ=w192-h192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczMB19siG2dQ3KbF7YAZot91rvB1uie2RMGkSfafdvzzpWfiWOGuMXiw7_BOS4kV88S3_Q5lQggU9W3p6vqOOImtzhdlrc_Ke5rHm362J-eeuu43idN_EzJke_YdRgyY-k7_ep1gXmAsxhiKQQ7qTXjJ=w512-h512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Chill Club",
+      "short_name": "Club",
+      "description": "Accede al Chill Club",
+      "url": "https://chillstreaming.blogspot.com/p/club.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczOKgBbzFygUpkMwlg5pnqvttMS3lQC4Q-NhZ2aWrgiHx78-iK2dwnVnpFxftr3rxWNHIiQgrmxR49Qlrn578IU2VG8gj1e16g8YwwiClxwXx6sq2oO24VMOqxUyo151ZQ1mKUD2yvOxdq4BPVdYgYWU=w192-h192",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Soporte",
+      "short_name": "Soporte",
+      "description": "Chatea con soporte en WhatsApp",
+      "url": "https://chillstreaming.blogspot.com/p/soporte.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczNipr2ZqkLtt26VPZCA5aM9ks-ZFAeYfFE8BEAN6Lll46tiEMlwckAOflMxq7NxRWVKQ2L-8LXlQ8aDcm3LWjU7QdmHWy88NUe_icZzQPYcDfo7fbuvEDLBoLki6NF8EmvIm_9TaLugetjpwFva--wA=w192-h192",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Renovación",
+      "short_name": "Renovar",
+      "description": "Renueva tu plan de Chill Streaming",
+      "url": "https://chillstreaming.blogspot.com/p/renovacion.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczNKMbc5ILMofDYdiUGd_33hv2yS6KZBN4IUUzP9l_b1SQykvIB1-SMZRDNHTOTu_iCHMj2Tc2I4A2CD0vjpkua5RKkHrW1SH7qnAAxNyfkvUXAtiG_ZkdRqQvcMvPXYMtE_CXLEUt8bm_SeQmUgLtlW=w192-h192",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Redes Oficiales",
+      "short_name": "Redes",
+      "description": "Accede a nuestras redes oficiales",
+      "url": "https://chillstreaming.blogspot.com/p/redes.html",
+      "icons": [
+        {
+          "src": "https://lh3.googleusercontent.com/pw/AP1GczNFHLuZvzT_MvMXd7qxFFvIj7BU6-xdmnAUlJZyLHAjrUTKpaK5t0tqR2N27onpx-5cTiFUAjb-CIC8tr8NWutgCd6d3mAEAbMGbfQNHBq619XWf8AnX2S5I7yYzrW4rHngywyCiVFzXrxNX5Rore-C=w192-h192",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
